@@ -1,3 +1,8 @@
 hi this is sandeep
 hello this is new data in this file
+
 this conflict is from master
+
+
+this data conflict is from branch
+
